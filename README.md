@@ -148,7 +148,8 @@ A simple WordPress plugin to measure the user’s internet speed and display the
 ## 📚 Blog & Tutorials
 
 - **[DevTechnic Blog](https://blog.devtechnic.online)**: Here, I share insights on web development, tutorials on WordPress, and my experience working with modern web technologies.
-- **Latest Post**: [How to deal with spam problem on WordPress sites?]([https://blog.devtechnic.online/custom-wordpress-plugin-tutorial](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/))
+- **Latest Post**: [How to deal with spam problem on WordPress sites?](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/)
+
 
 ## 🛠️ Open Source Contributions
 
