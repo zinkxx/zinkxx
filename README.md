@@ -68,7 +68,7 @@ Kullanıcıların internet hızını ölçüp, IP adreslerini gösteren basit bi
 ## 📚 Blog & Eğitimler
 
 - **[DevTechnic Blog](https://blog.devtechnic.online)**: Web geliştirme, WordPress hakkında eğitimler ve modern web teknolojileri üzerine yazılar paylaşıyorum.
-- **Son Yazım**: [WordPress sitelerde spam sorunu ile nasıl başa çıkılır?]([(https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/))
+- **Son Yazım**: [WordPress sitelerde spam sorunu ile nasıl başa çıkılır?](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/)
 
 ## 🛠️ Açık Kaynak Katkıları
 
