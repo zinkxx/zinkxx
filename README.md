@@ -8,7 +8,6 @@
   - GitHub: [https://github.com/zinkxx](https://github.com/zinkxx)  
   - Web Sitesi: [https://devtechnic.online](https://devtechnic.online)  
   - Blog: [https://blog.devtechnic.online](https://blog.devtechnic.online)
-- 😄 Zamirler: O/Onun
 - ⚡ Eğlenceli bilgi: Teknoloji topluluğuna katkıda bulunarak bilgi paylaşmayı çok seviyorum.
 
 ## 🚀 Projeler
@@ -89,7 +88,6 @@ Açık kaynak topluluğuna katkıda bulunmayı çok seviyorum. Projelerimi GitHu
   - GitHub: [https://github.com/zinkxx](https://github.com/zinkxx)  
   - Website: [https://devtechnic.online](https://devtechnic.online)  
   - Blog: [https://blog.devtechnic.online](https://blog.devtechnic.online)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I enjoy writing tutorials and sharing my knowledge with the tech community.
 
 ## 🚀 Projects
