@@ -68,7 +68,7 @@ Kullanıcıların internet hızını ölçüp, IP adreslerini gösteren basit bi
 ## 📚 Blog & Eğitimler
 
 - **[DevTechnic Blog](https://blog.devtechnic.online)**: Web geliştirme, WordPress hakkında eğitimler ve modern web teknolojileri üzerine yazılar paylaşıyorum.
-- **Son Yazım**: [2025’te Özel Bir WordPress Eklentisi Nasıl Yapılır](https://blog.devtechnic.online/custom-wordpress-plugin-tutorial)
+- **Son Yazım**: [WordPress sitelerde spam sorunu ile nasıl başa çıkılır?]([https://blog.devtechnic.online/custom-wordpress-plugin-tutorial](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/))
 
 ## 🛠️ Açık Kaynak Katkıları
 
@@ -148,7 +148,7 @@ A simple WordPress plugin to measure the user’s internet speed and display the
 ## 📚 Blog & Tutorials
 
 - **[DevTechnic Blog](https://blog.devtechnic.online)**: Here, I share insights on web development, tutorials on WordPress, and my experience working with modern web technologies.
-- **Latest Post**: [How to Create a Custom WordPress Plugin in 2025](https://blog.devtechnic.online/custom-wordpress-plugin-tutorial)
+- **Latest Post**: [How to deal with spam problem on WordPress sites?]([https://blog.devtechnic.online/custom-wordpress-plugin-tutorial](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/))
 
 ## 🛠️ Open Source Contributions
 
