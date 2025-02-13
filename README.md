@@ -2,85 +2,7 @@
 
 ![resminizin_yolu](https://camo.githubusercontent.com/c3fd6682e8cca0f7c262a00f94ef0f65cadd0c8470669a2d7d6f3614e81b10c2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/88e1b21c4e11afd4f06cfb2b510dbb3690dbd300fb1a6d4676fd553a70bafa82/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f632b2b2d2532333030353939432e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d63253242253242266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/d4d9d935f85b68223a3514c6a889ea3ed6a77afb5f560c05baa1a1b168077830/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f68746d6c352d2532334533344632362e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d68746d6c35266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/bea90da226e09b503e6c8fde824f4816b98dcf30cd31e803006bf6335af06890/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176612d2532334544384230302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6f70656e6a646b266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/29d02b3669d6450d67e043cf5909e740dcb94c1e2306d88ac48b15b4ec55dc65/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145) ![resminizin_yolu](https://camo.githubusercontent.com/de04bdc93d7c7da16e87e057b7de10f8d394fe3df1317e99bb9cbf2eb002bf5c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6c75612d2532333243324437322e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6c7561266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/0d0779a129f1dcf6c31613b701fe0646fd4e4d2ed2a7cbd61b27fd5514baa938/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f707974686f6e2d3336373041303f7374796c653d666f722d7468652d6261646765266c6f676f3d707974686f6e266c6f676f436f6c6f723d666664643534) ![resminizin_yolu](https://camo.githubusercontent.com/b709b385d5e956a7299e4657eca82be4ac00ea534bc9884daa6c5f07f02724e6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436c6f7564666c6172652d4633383032303f7374796c653d666f722d7468652d6261646765266c6f676f3d436c6f7564666c617265266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/91df23e19780cabd9b72044893ec4fb6d3596fa6bb2910c820dd4cdf71933c33/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f576f726450726573732d2532333131374143392e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d576f72645072657373266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/94d83dc5838e2784bee25fe9e019bc2fda128676f32cef2f06baa0f6f3849b8c/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769742d2532334630353033332e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/7e282220b8ec0dd29cf99be1c0f5e82d74a42bc84ed834ee6afd86b4bad3bfee/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6769746875622d2532333132313031312e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d676974687562266c6f676f436f6c6f723d7768697465)  ![resminizin_yolu](https://camo.githubusercontent.com/fd00f5fb76a02f6093a50142c52193fa6353f4a1b5199827c57cbe99d611b532/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4e504d2d2532334342333833372e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6e706d266c6f676f436f6c6f723d7768697465)  ![resminizin_yolu](https://camo.githubusercontent.com/8477a50d7210f0f3bf15fbe5b44809296b75f2101a2927818599d72c8ea72cef/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732d3644413535463f7374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465) ![resminizin_yolu](https://camo.githubusercontent.com/02ac2b3a53dcf63e2fa316c969621bbc985825476e197c2d19835da32dd6a5a2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f617061636865253230746f6d6361742d2532334638444337352e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6170616368652d746f6d636174266c6f676f436f6c6f723d626c61636b)
 
-# 👋 Merhaba, Ben @zinkxx
-
-- 👀 **Web geliştirme**, **WordPress eklentileri**, **PWA** ve **yenilikçi çözümler** oluşturma ile ilgileniyorum.
-- 🌱 Şu anda **React**, **Node.js** ve **Sunucusuz mimari** gibi modern web teknolojilerini öğreniyorum.
-- 💞️ **Açık kaynak projeleri** ve **teknik eğitimler** üzerinde işbirliği yapmak istiyorum.
-- 📫 Bana ulaşmak için:  
-  - E-posta: [said@devtechnic.online](mailto:said@devtechnic.online)  
-  - GitHub: [https://github.com/zinkxx](https://github.com/zinkxx)  
-  - Web Sitesi: [https://devtechnic.online](https://devtechnic.online)  
-  - Blog: [https://blog.devtechnic.online](https://blog.devtechnic.online)
-- ⚡ Eğlenceli bilgi: Teknoloji topluluğuna katkıda bulunarak bilgi paylaşmayı çok seviyorum.
-
-## 🚀 Projeler
-
-### **Zinkx Blog Teması**
-Teknoloji blogları için modern, duyarlı bir WordPress teması. **Dinamik bir slider**, **karanlık mod** ve özelleştirilebilir **widget alanları** içeriyor.
-- **Kullanılan teknolojiler**: PHP, HTML, CSS, JavaScript, WordPress
-- **Özellikler**:
-  - **Özelleştirilebilir başlık ve alt bilgi** ile marka ekleme kolaylığı
-  - **Mobil uyumlu** tasarım, ilk olarak mobil odaklı
-  - **Karanlık mod desteği** ile kullanıcı deneyimini iyileştirme
-  - **SEO dostu** tasarım ile arama motorlarında daha fazla görünürlük
-  - **Bir tıkla demo importu** ile kolay kurulum
-
-### **DevTechnic Web Sitesi**
-Teknik çözümler, eğitimler ve blog yazılarını sunan bir Progressive Web App (PWA). **Bootstrap** ile duyarlı tasarım ve **JavaScript** ile dinamik özellikler sunuyor.
-- **Kullanılan teknolojiler**: Bootstrap, JavaScript, HTML, CSS, PWA
-- **Özellikler**:
-  - **Çevrimdışı kullanım desteği** sayesinde internet bağlantısı olmayan veya düşük hızda bağlantı olan kullanıcılar için geliştirilmiş deneyim
-  - **Push bildirimleri** ile kullanıcıları yeni içeriklerden haberdar etme
-  - **Hızlı yüklenme süreleri** için optimize edilmiş kod ve görseller
-  - **Mobil dostu** tasarım
-
-### **Gelişmiş Form Oluşturucu Eklentisi**
-Kullanıcıların kolayca özelleştirilmiş formlar oluşturabilmesi için bir WordPress eklentisi. Sürükle-bırak fonksiyonu destekleyen çok çeşitli form alanlarına sahip.
-- **Kullanılan teknolojiler**: PHP, JavaScript, WordPress
-- **Özellikler**:
-  - **Sürükle-bırak form oluşturucu** ile kolay form tasarımı
-  - **Birçok form alanı tipi** (metin, e-posta, radyo butonları, dosya yüklemeleri vb.)
-  - **E-posta bildirimleri** ile form gönderildiğinde kullanıcıyı bilgilendirme
-  - **CSS ile özelleştirilebilir stiller**
-
-### **İnternet Hızı ve IP Eklentisi**
-Kullanıcıların internet hızını ölçüp, IP adreslerini gösteren basit bir WordPress eklentisi. Gerçek zamanlı hız testi sonuçları sağlamak için bir dış API kullanır.
-- **Kullanılan teknolojiler**: PHP, JavaScript, WordPress
-- **Özellikler**:
-  - **Gerçek zamanlı hız testi** için dış API entegrasyonu
-  - **IP adresi tespiti** ve gösterimi
-  - **Özelleştirilebilir ayarlar** ile site tasarımına uyum sağlama
-  - **Hafif yapıda** ve minimal performans etkisi
-
-## 🔧 Teknolojiler & Araçlar
-
-- **Diller**: HTML, CSS, JavaScript, PHP, SQL
-- **Frameworkler & Kütüphaneler**: 
-  - **React** ile dinamik kullanıcı arayüzleri
-  - **Node.js** ile sunucu tarafı geliştirme
-  - **Bootstrap** ile duyarlı, mobil dostu tasarım
-  - **WordPress** ile özel eklenti ve tema geliştirme
-- **Araçlar**: 
-  - **Visual Studio Code** ile kod düzenleme
-  - **Git** ve **GitHub** ile sürüm kontrolü ve işbirliği
-  - **Docker** ile konteynerleştirme
-  - **npm** ile JavaScript paketlerini yönetme
-- **Veritabanları**: MySQL, SQLite
-- **API Entegrasyonları**: Google Maps API, Speed Test API
-
-## 📚 Blog & Eğitimler
-
-- **[DevTechnic Blog](https://blog.devtechnic.online)**: Web geliştirme, WordPress hakkında eğitimler ve modern web teknolojileri üzerine yazılar paylaşıyorum.
-- **Son Yazım**: [WordPress sitelerde spam sorunu ile nasıl başa çıkılır?](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/)
-
-## 🛠️ Açık Kaynak Katkıları
-
-Açık kaynak topluluğuna katkıda bulunmayı çok seviyorum. Projelerimi GitHub'da bulabilirsiniz:
-- **[Advanced WordPress Plugin Boilerplate](https://github.com/zinkxx/wordpress-plugin-boilerplate)** - Ölçeklenebilir WordPress eklentileri geliştirmek için bir iskelet yapısı.
-- **[DevTechnic Web Tools](https://github.com/zinkxx/devtechnic-tools)** - Projelerimde kullandığım JavaScript yardımcı araçlar ve araçlar koleksiyonu.
-
------------------------------------------------------------
+-------------------------------------------------------------------
 
 # 👋 Hi, I’m @zinkxx
 
@@ -162,5 +84,88 @@ I love contributing to the open-source community. Check out my repositories for 
 - **[DevTechnic Web Tools](https://github.com/zinkxx/devtechnic-tools)** - A collection of JavaScript utilities and tools I use in my projects.
 
 -------------------------------------------------------------------
+
+# 👋 Merhaba, Ben @zinkxx
+
+- 👀 **Web geliştirme**, **WordPress eklentileri**, **PWA** ve **yenilikçi çözümler** oluşturma ile ilgileniyorum.
+- 🌱 Şu anda **React**, **Node.js** ve **Sunucusuz mimari** gibi modern web teknolojilerini öğreniyorum.
+- 💞️ **Açık kaynak projeleri** ve **teknik eğitimler** üzerinde işbirliği yapmak istiyorum.
+- 📫 Bana ulaşmak için:  
+  - E-posta: [said@devtechnic.online](mailto:said@devtechnic.online)  
+  - GitHub: [https://github.com/zinkxx](https://github.com/zinkxx)  
+  - Web Sitesi: [https://devtechnic.online](https://devtechnic.online)  
+  - Blog: [https://blog.devtechnic.online](https://blog.devtechnic.online)
+- ⚡ Eğlenceli bilgi: Teknoloji topluluğuna katkıda bulunarak bilgi paylaşmayı çok seviyorum.
+
+## 🚀 Projeler
+
+### **Zinkx Blog Teması**
+Teknoloji blogları için modern, duyarlı bir WordPress teması. **Dinamik bir slider**, **karanlık mod** ve özelleştirilebilir **widget alanları** içeriyor.
+- **Kullanılan teknolojiler**: PHP, HTML, CSS, JavaScript, WordPress
+- **Özellikler**:
+  - **Özelleştirilebilir başlık ve alt bilgi** ile marka ekleme kolaylığı
+  - **Mobil uyumlu** tasarım, ilk olarak mobil odaklı
+  - **Karanlık mod desteği** ile kullanıcı deneyimini iyileştirme
+  - **SEO dostu** tasarım ile arama motorlarında daha fazla görünürlük
+  - **Bir tıkla demo importu** ile kolay kurulum
+
+### **DevTechnic Web Sitesi**
+Teknik çözümler, eğitimler ve blog yazılarını sunan bir Progressive Web App (PWA). **Bootstrap** ile duyarlı tasarım ve **JavaScript** ile dinamik özellikler sunuyor.
+- **Kullanılan teknolojiler**: Bootstrap, JavaScript, HTML, CSS, PWA
+- **Özellikler**:
+  - **Çevrimdışı kullanım desteği** sayesinde internet bağlantısı olmayan veya düşük hızda bağlantı olan kullanıcılar için geliştirilmiş deneyim
+  - **Push bildirimleri** ile kullanıcıları yeni içeriklerden haberdar etme
+  - **Hızlı yüklenme süreleri** için optimize edilmiş kod ve görseller
+  - **Mobil dostu** tasarım
+
+### **Gelişmiş Form Oluşturucu Eklentisi**
+Kullanıcıların kolayca özelleştirilmiş formlar oluşturabilmesi için bir WordPress eklentisi. Sürükle-bırak fonksiyonu destekleyen çok çeşitli form alanlarına sahip.
+- **Kullanılan teknolojiler**: PHP, JavaScript, WordPress
+- **Özellikler**:
+  - **Sürükle-bırak form oluşturucu** ile kolay form tasarımı
+  - **Birçok form alanı tipi** (metin, e-posta, radyo butonları, dosya yüklemeleri vb.)
+  - **E-posta bildirimleri** ile form gönderildiğinde kullanıcıyı bilgilendirme
+  - **CSS ile özelleştirilebilir stiller**
+
+### **İnternet Hızı ve IP Eklentisi**
+Kullanıcıların internet hızını ölçüp, IP adreslerini gösteren basit bir WordPress eklentisi. Gerçek zamanlı hız testi sonuçları sağlamak için bir dış API kullanır.
+- **Kullanılan teknolojiler**: PHP, JavaScript, WordPress
+- **Özellikler**:
+  - **Gerçek zamanlı hız testi** için dış API entegrasyonu
+  - **IP adresi tespiti** ve gösterimi
+  - **Özelleştirilebilir ayarlar** ile site tasarımına uyum sağlama
+  - **Hafif yapıda** ve minimal performans etkisi
+
+## 🔧 Teknolojiler & Araçlar
+
+- **Diller**: HTML, CSS, JavaScript, PHP, SQL
+- **Frameworkler & Kütüphaneler**: 
+  - **React** ile dinamik kullanıcı arayüzleri
+  - **Node.js** ile sunucu tarafı geliştirme
+  - **Bootstrap** ile duyarlı, mobil dostu tasarım
+  - **WordPress** ile özel eklenti ve tema geliştirme
+- **Araçlar**: 
+  - **Visual Studio Code** ile kod düzenleme
+  - **Git** ve **GitHub** ile sürüm kontrolü ve işbirliği
+  - **Docker** ile konteynerleştirme
+  - **npm** ile JavaScript paketlerini yönetme
+- **Veritabanları**: MySQL, SQLite
+- **API Entegrasyonları**: Google Maps API, Speed Test API
+
+## 📚 Blog & Eğitimler
+
+- **[DevTechnic Blog](https://blog.devtechnic.online)**: Web geliştirme, WordPress hakkında eğitimler ve modern web teknolojileri üzerine yazılar paylaşıyorum.
+- **Son Yazım**: [WordPress sitelerde spam sorunu ile nasıl başa çıkılır?](https://blog.devtechnic.online/wordpress-sitelerde-spam-sorunu-ile-nasil-basa-cikilir/)
+
+## 🛠️ Açık Kaynak Katkıları
+
+Açık kaynak topluluğuna katkıda bulunmayı çok seviyorum. Projelerimi GitHub'da bulabilirsiniz:
+- **[Advanced WordPress Plugin Boilerplate](https://github.com/zinkxx/wordpress-plugin-boilerplate)** - Ölçeklenebilir WordPress eklentileri geliştirmek için bir iskelet yapısı.
+- **[DevTechnic Web Tools](https://github.com/zinkxx/devtechnic-tools)** - Projelerimde kullandığım JavaScript yardımcı araçlar ve araçlar koleksiyonu.
+
+-------------------------------------------------------------------
+
+
+
 
 
