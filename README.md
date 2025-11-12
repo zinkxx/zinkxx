@@ -10,10 +10,10 @@
 - 🌱 I’m currently learning more about **React**, **Node.js**, and **Serverless architecture** to build highly scalable applications.
 - 💞️ I’m looking to collaborate on **open-source projects**, **tech tutorials**, and **innovative web solutions**.
 - 📫 How to reach me:  
-  - Email: [said@devtechnic.online](mailto:said@devtechnic.online)  
+  - Email: [said@devtechnic.com.tr](mailto:said@devtechnic.com.tr)  
   - GitHub: [https://github.com/zinkxx](https://github.com/zinkxx)  
-  - Website: [https://devtechnic.online](https://devtechnic.online)  
-  - Blog: [https://blog.devtechnic.online](https://blog.devtechnic.online)
+  - Website: [https://devtechnic.com.tr](https://devtechnic.com.tr)  
+  - Blog: [https://www.devtechnic.com.tr/blog](https://www.devtechnic.com.tr/blog)
 - ⚡ Fun fact: I enjoy writing tutorials and sharing my knowledge with the tech community.
 
 ## 🚀 Projects
