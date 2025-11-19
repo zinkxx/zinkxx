@@ -1,11 +1,15 @@
-<!-- BANNER -->
+<!-- HEADER / BANNER -->
 <p align="center">
-  <img src="https://via.placeholder.com/1200x250/0d1117/64ffda?text=DevTechnic+%7C+Full+Stack+Developer" alt="banner"/>
+  <img src="https://www.devtechnic.com.tr/images/logo.png" alt="DevTechnic Logo" width="220" />
 </p>
 
 <h1 align="center">👋 Hi, I'm Said Kaya (zinkxx)</h1>
-<p align="center"><strong>Full-Stack Developer • DevTechnic Founder • Modern Web & PWA Solutions</strong></p>
-<p align="center">PHP • Vue 3 • MySQL • Node.js • PWA • UI/UX • Server Management</p>
+<p align="center">
+  <strong>Full-Stack Developer • DevTechnic Founder • Modern Web & PWA Solutions</strong>
+</p>
+<p align="center">
+  PHP • Vue 3 • MySQL • Node.js • PWA • UI/UX • Server Management
+</p>
 
 ---
 
@@ -107,8 +111,8 @@ A secure license validator used across DevTechnic client projects:
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
