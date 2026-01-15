@@ -5,7 +5,7 @@
 
 <h1 align="center">👋 Hi, I'm Said Kaya (zinkxx)</h1>
 <p align="center">
-  <strong>Full-Stack Developer • DevTechnic Founder • Modern Web & PWA Solutions</strong>
+  <strong>Full-Stack Developer • DevTechnic Founder • Open-Source Builder • Modern Web & PWA Solutions</strong>
 </p>
 <p align="center">
   PHP • Vue 3 • MySQL • Node.js • PWA • UI/UX • Server Management
@@ -41,6 +41,19 @@ My work blends **clean UI**, **optimized backend**, and **high-scalability archi
 - NPM, Composer  
 
 ---
+
+## ⭐ Featured Open-Source Project
+
+### 🛠️ Zinkx Dev Assistant
+A Python-based desktop developer assistant that scans projects, detects risks,
+and generates detailed HTML reports to improve code quality and workflow.
+
+- Project scanning engine  
+- Risk detection & analysis  
+- HTML report generation  
+- Desktop UI foundation  
+
+👉 Repository: https://github.com/zinkxx/zinkx-dev-assistant
 
 ## 🌐 Featured Projects
 
@@ -109,11 +122,26 @@ A secure license validator used across DevTechnic client projects:
 ---
 
 ## 📊 GitHub Stats
+<sub>📈 Activity and language statistics</sub>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight" height="170" />
 </p>
+
+---
+
+## 🤝 Open Source & Collaboration
+
+I actively build and maintain open-source projects.
+If you find my work useful:
+
+- ⭐ Star repositories you like  
+- 🐞 Open issues or feature requests  
+- 🍴 Fork and improve  
+- 💬 Share feedback and ideas  
+
+Contributions and collaboration are always welcome.
 
 ---
 
