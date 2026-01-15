@@ -147,6 +147,24 @@ A secure license validator used across DevTechnic client projects:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800)
 
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinkxx&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinkxx&theme=tokyonight&utcOffset=3" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://streak-stats.demolab.com?user=zinkxx&theme=tokyonight&hide_border=true" />
+</p>
+
 
 ---
 
