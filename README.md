@@ -139,11 +139,6 @@ A secure license validator used across DevTechnic client projects:
   <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinkxx&theme=tokyonight&utcOffset=3" />
 </p>
 
-<p align="center">
-  <img height="180" src="https://streak-stats.demolab.com?user=zinkxx&theme=tokyonight&hide_border=true" />
-</p>
-
-
 ---
 
 ## 🤝 Open Source & Collaboration
