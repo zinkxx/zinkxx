@@ -125,9 +125,28 @@ A secure license validator used across DevTechnic client projects:
 <sub>📈 Activity and language statistics</sub>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight" height="170" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&exclude_repo=&cache_seconds=1800" />
 </p>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800" />
+  <img height="170"
+       src="https://streak-stats.demolab.com?user=zinkxx&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+</p>
+
+<p align="center">
+  <img height="170"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=12&cache_seconds=1800" />
+</p>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&cache_seconds=1800)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true&langs_count=10&cache_seconds=1800)
+
 
 ---
 
