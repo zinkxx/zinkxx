@@ -22,6 +22,38 @@ My work blends **clean UI**, **optimized backend**, and **high-scalability archi
 
 ---
 
+## 📊 GitHub Stats
+<sub>📈 Activity and language statistics</sub>
+
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinkxx&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" />
+  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinkxx&theme=tokyonight&utcOffset=3" />
+</p>
+
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=radical"
+  />
+  <img
+    height="170"
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=radical"
+  />
+</p>
+
+---
+
 ## 🏗️ Core Technologies
 
 ### **Frontend**
@@ -118,49 +150,6 @@ A secure license validator used across DevTechnic client projects:
 - Speed test & IP lookup  
 - Zinkx blog theme  
 - Custom widgets & plugin boilerplates  
-
----
-
-## 📊 GitHub Stats
-<sub>📈 Activity and language statistics</sub>
-
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinkxx&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinkxx&theme=tokyonight&utcOffset=3" />
-</p>
-
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=radical"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=radical"
-  />
-</p>
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=radical"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=radical"
-  />
-</p>
 
 ---
 
