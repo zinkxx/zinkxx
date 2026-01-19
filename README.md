@@ -5,20 +5,22 @@
 
 <h1 align="center">👋 Hi, I'm Said Kaya (zinkxx)</h1>
 <p align="center">
-  <strong>Full-Stack Developer • DevTechnic Founder • Open-Source Builder • Modern Web & PWA Solutions</strong>
+  <strong>
+    Full-Stack Developer • DevTechnic Founder • Open-Source Builder • Web & Mobile App Developer
+  </strong>
 </p>
 <p align="center">
-  PHP • Vue 3 • MySQL • Node.js • PWA • UI/UX • Server Management
+  PHP • Vue 3 • SwiftUI • iOS • macOS • MySQL • Node.js • PWA • UI/UX • Server Management
 </p>
 
 ---
-
 ## 🚀 About Me
 
-I am a **full-stack developer** and founder of **DevTechnic**, creating modern web applications, hosting solutions, admin dashboards, and high-performance custom systems.  
-For the last years, I’ve been building **production-ready platforms** for logistics, hosting, finance, POS systems, and enterprise-level admin panels.
+I am a **full-stack developer** and founder of **DevTechnic**, building modern web, mobile, and desktop applications with a strong focus on **clean architecture, performance, and user experience**.
 
-My work blends **clean UI**, **optimized backend**, and **high-scalability architecture**.
+Over the years, I’ve developed **production-ready systems** for logistics, hosting, finance, POS platforms, and enterprise-level admin panels, as well as **native applications for iOS and macOS using SwiftUI**.
+
+My work blends **polished UI/UX**, **optimized backend systems**, and **scalable, maintainable architectures** across web and Apple ecosystems.
 
 ---
 
@@ -56,8 +58,9 @@ My work blends **clean UI**, **optimized backend**, and **high-scalability archi
 
 ## 🏗️ Core Technologies
 
-### **Frontend**
+### **Frontend / UI**
 - Vue 3 (Composition API), Vite  
+- SwiftUI (iOS & macOS)  
 - HTML5, CSS3, Bootstrap 5  
 - UI/UX, Responsive & PWA Design  
 
@@ -66,15 +69,37 @@ My work blends **clean UI**, **optimized backend**, and **high-scalability archi
 - MySQL / MariaDB  
 - Node.js, REST APIs  
 
+### **Mobile & Desktop**
+- iOS & macOS app development  
+- MVVM architecture  
+- State-driven UI (SwiftUI)  
+
 ### **DevOps & Tools**
-- CPanel, Linux servers  
+- Linux servers, CPanel  
 - SSL, DNS, Mail systems  
 - Git, GitHub, Docker  
 - NPM, Composer  
 
+
 ---
 
 ## ⭐ Featured Open-Source Project
+### 📝 DevNotes — SwiftUI Notes App (iOS & macOS)
+
+**DevNotes** is a modern, fast, and minimal **note-taking application built with SwiftUI**, designed for productivity with a clean and intuitive user experience.
+
+- Clean **SwiftUI + MVVM** architecture  
+- Tag system with icons & colors  
+- Pinned notes & smart filtering  
+- Reminder infrastructure  
+- Native ShareSheet support  
+- Fully compatible with **Dark / Light mode**
+
+**Technologies**: SwiftUI, MVVM, iOS, macOS  
+👉 Repository: https://github.com/zinkxx/devnotes  
+**Status**: Actively developed 🚀
+
+---
 
 ### 🛠️ Zinkx Dev Assistant
 A Python-based desktop developer assistant that scans projects, detects risks,
@@ -113,43 +138,12 @@ A modern, DB-driven dedicated server product management system:
 
 ---
 
-### 🔹 **Grena POS (Salon Yönetim Sistemi)**
-A Vue 3 + Vite PWA built for appointment, staff, customer & finance tracking.
-- Fast PWA architecture  
-- Admin dashboard  
-- Appointment timeline, staff management  
-- Modular & scalable  
-
-**Technologies**: Vue 3, Vite, Pinia, Router, PWA
-
----
-
-### 🔹 **DevNet Admin Panel**
-Centralized admin system used across multiple DevTechnic projects:
-- Modular structure: slider, blog, quotes, settings  
-- Token-based security & CSRF protection  
-- License manager integration  
-- Real-time dashboard components  
-
-**Technologies**: PHP, MySQL, Bootstrap 5  
-**Status**: Actively used in 5+ production projects
-
----
-
 ### 🔹 **Custom PHP License System**
 A secure license validator used across DevTechnic client projects:
 - API-based validation  
 - Domain/IP check  
 - Token encryption  
 - Admin-side tracking  
-
----
-
-### 🔹 **WordPress Plugins & Themes**
-- Advanced form builder  
-- Speed test & IP lookup  
-- Zinkx blog theme  
-- Custom widgets & plugin boilerplates  
 
 ---
 
