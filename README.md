@@ -1,173 +1,112 @@
-<!-- HEADER / BANNER -->
-<p align="center">
-  <img src="https://www.devtechnic.com.tr/images/logo.png" alt="DevTechnic Logo" width="220" />
-</p>
+<div align="center">
+  <h1><b>Z I N K X</b><br><span style="font-size: 24px;">🪷</span></h1>
+  
+  <br />
+  
+  <h1>👋 Hi, I'm Said Kaya (zinkxx)</h1>
+  
+  <p>
+    <b>Full-Stack Developer • DevTechnic Founder • Open-Source Builder • iOS/macOS Developer</b>
+  </p>
+  
+  <p>
+    <a href="https://zinkx.dev"><img src="https://img.shields.io/badge/Portfolio-zinkx.dev-ff69b4?style=for-the-badge&logo=react&logoColor=white" /></a>
+    <a href="https://devtechnic.com.tr"><img src="https://img.shields.io/badge/Agency-DevTechnic-0052CC?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+  </p>
 
-<h1 align="center">👋 Hi, I'm Said Kaya (zinkxx)</h1>
-<p align="center">
-  <strong>
-    Full-Stack Developer • DevTechnic Founder • Open-Source Builder • Web & Mobile App Developer
-  </strong>
-</p>
-<p align="center">
-  PHP • Vue 3 • SwiftUI • iOS • macOS • MySQL • Node.js • PWA • UI/UX • Server Management
-</p>
+  <p>
+    <sub>Crafting premium web & native experiences with a focus on clean architecture, performance, and the "Lotus" aesthetic. 🪷</sub>
+  </p>
+</div>
 
 ---
+
+## 🪷 Latest Release: Zinkx.dev
+I recently launched my new premium interactive portfolio, **[zinkx.dev](https://zinkx.dev)**! 
+
+It features a curated collection of high-end frontend templates (*Zinkx Corporate Lotus, Lotus Commerce, Zen Lotus Portfolio, Neon Lotus Landing, and more*). Built with a state-of-the-art interactive UI, dynamic themes, and a responsive bento-grid architecture.
+
+> **Visit & Explore:** [https://zinkx.dev](https://zinkx.dev)
+
+---
+
 ## 🚀 About Me
 
-I am a **full-stack developer** and founder of **DevTechnic**, building modern web, mobile, and desktop applications with a strong focus on **clean architecture, performance, and user experience**.
+I am a **full-stack developer** and the founder of **DevTechnic**. My expertise lies in building modern web applications and native Apple ecosystem software. I prioritize **clean code**, **scalable architectures**, and **polished UI/UX**.
 
-Over the years, I’ve developed **production-ready systems** for logistics, hosting, finance, POS platforms, and enterprise-level admin panels, as well as **native applications for iOS and macOS using SwiftUI**.
-
-My work blends **polished UI/UX**, **optimized backend systems**, and **scalable, maintainable architectures** across web and Apple ecosystems.
+- 🏢 **Current Focus**: Designing production-ready enterprise systems and minimal, lightning-fast native apps.
+- 💻 **Ecosystems**: Deep experience in both **Web** (Vue 3, React, PHP 8) and **Apple Native** (SwiftUI for iOS/macOS).
+- ⚙️ **Infrastructure**: Managing Linux servers, cloud deployments, databases (MySQL/MariaDB), and CI/CD pipelines.
 
 ---
 
-## 📊 GitHub Stats
-<sub>📈 Activity and language statistics</sub>
-
+## 🛠️ Core Technologies
 
 <p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=zinkxx&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" />
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=zinkxx&theme=tokyonight&utcOffset=3" />
-</p>
-
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=radical"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=radical"
-  />
+  <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
+  <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/macOS-000000?style=flat-square&logo=apple&logoColor=white" alt="macOS" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
 </p>
 
 ---
 
-## 🏗️ Core Technologies
+## 🌟 Featured Projects
 
-### **Frontend / UI**
-- Vue 3 (Composition API), Vite  
-- SwiftUI (iOS & macOS)  
-- HTML5, CSS3, Bootstrap 5  
-- UI/UX, Responsive & PWA Design  
-
-### **Backend**
-- PHP 8.x  
-- MySQL / MariaDB  
-- Node.js, REST APIs  
-
-### **Mobile & Desktop**
-- iOS & macOS app development  
-- MVVM architecture  
-- State-driven UI (SwiftUI)  
-
-### **DevOps & Tools**
-- Linux servers, CPanel  
-- SSL, DNS, Mail systems  
-- Git, GitHub, Docker  
-- NPM, Composer  
-
-
----
-
-## ⭐ Featured Open-Source Project
-### 📝 DevNotes — SwiftUI Notes App (iOS & macOS)
-
-**DevNotes** is a modern, fast, and minimal **note-taking application built with SwiftUI**, designed for productivity with a clean and intuitive user experience.
-
-- Clean **SwiftUI + MVVM** architecture  
-- Tag system with icons & colors  
-- Pinned notes & smart filtering  
-- Reminder infrastructure  
-- Native ShareSheet support  
-- Fully compatible with **Dark / Light mode**
-
-**Technologies**: SwiftUI, MVVM, iOS, macOS  
-👉 Repository: https://github.com/zinkxx/devnotes  
-**Status**: Actively developed 🚀
-
----
-
-### 🛠️ Zinkx Dev Assistant
-A Python-based desktop developer assistant that scans projects, detects risks,
-and generates detailed HTML reports to improve code quality and workflow.
-
-- Project scanning engine  
-- Risk detection & analysis  
-- HTML report generation  
-- Desktop UI foundation  
-
-👉 Repository: https://github.com/zinkxx/zinkx-dev-assistant
-
-## 🌐 Featured Projects
-
-### 🔹 **RealTransport Logistics Platform**
-A fully dynamic, multilingual logistics website with rich admin modules:
-- Dynamic sliders, content & service management  
-- Multilingual (TR/EN/RU)  
-- Blog, gallery, quote system  
-- Custom admin dashboard (DevNet Admin)  
-- Full SEO, custom routing, caching layers  
-
-**Technologies**: PHP, MySQL, Bootstrap, Vue components  
-**Live**: https://realtransport.com.tr/
-
----
-
-### 🔹 **DevTechnic Dedicated Server Panel**
-A modern, DB-driven dedicated server product management system:
-- Dynamic cards (dark theme)  
-- Compare modal, selection logic, real-time filters  
-- Admin CRUD system  
-- License verification backend  
-
-**Technologies**: PHP, MySQL, AdminPanel, Bootstrap 5
-
----
-
-### 🔹 **Custom PHP License System**
-A secure license validator used across DevTechnic client projects:
-- API-based validation  
-- Domain/IP check  
-- Token encryption  
-- Admin-side tracking  
+| Project | Description | Tech Stack | Link |
+|:---|:---|:---|:---|
+| **[Zinkx.dev](https://zinkx.dev)** | 🪷 Interactive premium portfolio showcasing high-end React templates and dynamic UI/UX. | `React`, `Tailwind`, `Vite` | [Live Site](https://zinkx.dev) |
+| **[DevNotes](https://github.com/zinkxx/devnotes)** | 📝 A minimal, fast note-taking app for iOS and macOS. Features tags, reminders, and dark mode. | `SwiftUI`, `MVVM` | [GitHub Repo](https://github.com/zinkxx/devnotes) |
+| **RealTransport** | 🚢 A fully dynamic, multilingual logistics enterprise platform with custom CRM modules. | `PHP`, `Vue 3`, `MySQL` | [Live Site](https://realtransport.com.tr) |
+| **DevTechnic Dedicated** | 🖥️ DB-driven dedicated server management & sales system with dynamic product filters. | `PHP`, `Bootstrap 5` | *Private / Enterprise* |
+| **[Zinkx Dev Assistant](https://github.com/zinkxx/zinkx-dev-assistant)** | 🤖 Python-based desktop tool for project scanning, risk detection, and HTML reporting. | `Python`, `HTML` | [GitHub Repo](https://github.com/zinkxx/zinkx-dev-assistant) |
 
 ---
 
 ## 🤝 Open Source & Collaboration
 
-I actively build and maintain open-source projects.
-If you find my work useful:
-
+I actively build and maintain open-source projects. If you find my work useful:
 - ⭐ Star repositories you like  
 - 🐞 Open issues or feature requests  
 - 🍴 Fork and improve  
 - 💬 Share feedback and ideas  
 
-Contributions and collaboration are always welcome.
+Contributions and collaboration are always welcome!
 
 ---
 
-## 📫 Contact
+## 📊 GitHub Analytics
 
-- 🌐 Website: **https://devtechnic.com.tr**  
-- 📧 Email: **said@devtechnic.com.tr**  
-- 📝 Blog: https://devtechnic.com.tr/blog  
-- 🐙 GitHub: https://github.com/zinkxx  
+<div align="center">
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true" />
+</div>
+
+<div align="center">
+  <br />
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
+</div>
 
 ---
 
-<p align="center">💙 Built with passion at <strong>DevTechnic</strong></p>
+## 📫 Let's Connect
+
+<p align="center">
+  <a href="https://zinkx.dev"><strong>Portfolio</strong></a> • 
+  <a href="https://devtechnic.com.tr"><strong>Website</strong></a> • 
+  <a href="mailto:said@devtechnic.com.tr"><strong>Email</strong></a> • 
+  <a href="https://devtechnic.com.tr/blog"><strong>Blog</strong></a>
+</p>
+
+<br />
+
+<p align="center">
+  <i>"Design is not just what it looks like and feels like. Design is how it works."</i><br />
+  <br />
+  <sub>Built with passion and the 🪷 <b>Lotus Design System</b> by Zinkx</sub>
+</p>
