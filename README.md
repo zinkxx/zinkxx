@@ -30,6 +30,17 @@ It features a curated collection of high-end frontend templates (*Zinkx Corporat
 
 ---
 
+## 🏢 New: Agent Office
+Watch your **Claude Code** sessions and sub-agents work in a **live 3D office**: every agent gets a desk, walks to colleagues to hand over tasks, reports back, and when idle grabs a coffee or plays the console in the lounge. **100% local** — nothing leaves your machine.
+
+<p align="center">
+  <a href="https://zinkxx.github.io/agent-office/"><img src="https://raw.githubusercontent.com/zinkxx/agent-office/main/docs/sosyal-onizleme.png" alt="Agent Office — live 3D office for Claude Code agents" width="720" /></a>
+</p>
+
+> **Try the live demo:** [zinkxx.github.io/agent-office](https://zinkxx.github.io/agent-office/) · **Source:** [github.com/zinkxx/agent-office](https://github.com/zinkxx/agent-office)
+
+---
+
 ## 🚀 About Me
 
 I am a **full-stack developer** and the founder of **DevTechnic**. My expertise lies in building modern web applications and native Apple ecosystem software. I prioritize **clean code**, **scalable architectures**, and **polished UI/UX**.
@@ -45,6 +56,8 @@ I am a **full-stack developer** and the founder of **DevTechnic**. My expertise 
 <p align="center">
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D" alt="Vue" />
   <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white" alt="Three.js" />
   <img src="https://img.shields.io/badge/SwiftUI-F05138?style=flat-square&logo=swift&logoColor=white" alt="SwiftUI" />
   <img src="https://img.shields.io/badge/PHP_8-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="Node" />
@@ -60,6 +73,7 @@ I am a **full-stack developer** and the founder of **DevTechnic**. My expertise 
 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---|
+| **[Agent Office](https://github.com/zinkxx/agent-office)** | 🏢 Live 3D office that visualizes Claude Code sessions and sub-agents in real time — fully local. | `TypeScript`, `React`, `Three.js` | [Live Demo](https://zinkxx.github.io/agent-office/) |
 | **[Zinkx.dev](https://zinkx.dev)** | 🪷 Interactive premium portfolio showcasing high-end React templates and dynamic UI/UX. | `React`, `Tailwind`, `Vite` | [Live Site](https://zinkx.dev) |
 | **[DevNotes](https://github.com/zinkxx/devnotes)** | 📝 A minimal, fast note-taking app for iOS and macOS. Features tags, reminders, and dark mode. | `SwiftUI`, `MVVM` | [GitHub Repo](https://github.com/zinkxx/devnotes) |
 | **RealTransport** | 🚢 A fully dynamic, multilingual logistics enterprise platform with custom CRM modules. | `PHP`, `Vue 3`, `MySQL` | [Live Site](https://realtransport.com.tr) |
