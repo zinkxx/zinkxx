@@ -97,13 +97,33 @@ Contributions and collaboration are always welcome!
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most used languages" />
 </div>
 
 <div align="center">
   <br />
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" />
+  <img height="165" src="https://streak-stats.demolab.com?user=zinkxx&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak" />
+</div>
+
+<div align="center">
+  <br />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinkxx&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="Contribution graph" />
+</div>
+
+<div align="center">
+  <br />
+  <img src="https://github-trophies.vercel.app/?username=zinkxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+</div>
+
+<div align="center">
+  <br />
+  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" alt="Profile details" />
+</div>
+
+<div align="center">
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" alt="Top languages by repo" />
+  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" alt="Top languages by commit" />
 </div>
 
 ---
