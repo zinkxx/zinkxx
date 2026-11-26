@@ -11,7 +11,7 @@
   
   <p>
     <a href="https://zinkx.dev"><img src="https://img.shields.io/badge/Portfolio-zinkx.dev-ff69b4?style=for-the-badge&logo=react&logoColor=white" /></a>
-    <a href="https://devtechnic.com.tr"><img src="https://img.shields.io/badge/Agency-DevTechnic-0052CC?style=for-the-badge&logo=internet-explorer&logoColor=white" /></a>
+    <a href="https://devtechnic.com.tr"><img src="https://img.shields.io/badge/Agency-DevTechnic-0052CC?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
   </p>
 
   <p>
@@ -74,6 +74,7 @@ I am a **full-stack developer** and the founder of **DevTechnic**. My expertise 
 | Project | Description | Tech Stack | Link |
 |:---|:---|:---|:---|
 | **[Agent Office](https://github.com/zinkxx/agent-office)** | 🏢 Live 3D office that visualizes Claude Code sessions and sub-agents in real time — fully local. | `TypeScript`, `React`, `Three.js` | [Live Demo](https://zinkxx.github.io/agent-office/) |
+| **[Zinkx Arena](https://github.com/zinkxx/zinkx-arena)** | 🎮 A PS5-style, controller-first console launcher for RPCS3 on macOS — trophies, per-game profiles, DualSense lightbar. | `Swift`, `SwiftUI`, `AppKit` | [Download](https://github.com/zinkxx/zinkx-arena/releases/latest) |
 | **[Zinkx.dev](https://zinkx.dev)** | 🪷 Interactive premium portfolio showcasing high-end React templates and dynamic UI/UX. | `React`, `Tailwind`, `Vite` | [Live Site](https://zinkx.dev) |
 | **[DevNotes](https://github.com/zinkxx/devnotes)** | 📝 A minimal, fast note-taking app for iOS and macOS. Features tags, reminders, and dark mode. | `SwiftUI`, `MVVM` | [GitHub Repo](https://github.com/zinkxx/devnotes) |
 | **RealTransport** | 🚢 A fully dynamic, multilingual logistics enterprise platform with custom CRM modules. | `PHP`, `Vue 3`, `MySQL` | [Live Site](https://realtransport.com.tr) |
@@ -97,18 +98,27 @@ Contributions and collaboration are always welcome!
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=zinkxx&show_icons=true&include_all_commits=true&rank_icon=github&theme=tokyonight&hide_border=true&bg_color=00000000" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zinkxx&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=00000000" alt="Most used languages" />
+  <img height="165" src="./assets/stats.svg" alt="GitHub stats" />
+  <img height="165" src="./assets/langs.svg" alt="Most used languages" />
 </div>
 
 <div align="center">
   <br />
-  <img height="165" src="https://streak-stats.demolab.com?user=zinkxx&theme=tokyonight&hide_border=true&background=00000000" alt="Contribution streak" />
+  <img height="165" src="./assets/streak.svg" alt="Contribution streak" />
 </div>
 
 <div align="center">
   <br />
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=zinkxx&theme=tokyo-night&hide_border=true&area=true&bg_color=00000000" alt="Contribution graph" />
+  <img width="100%" src="./assets/activity.svg" alt="Contributions in the last 31 days" />
+</div>
+
+<div align="center">
+  <br />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./assets/snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="./assets/snake-light.svg" />
+    <img width="100%" src="./assets/snake-dark.svg" alt="Snake eating my contribution graph" />
+  </picture>
 </div>
 
 <div align="center">
@@ -125,6 +135,8 @@ Contributions and collaboration are always welcome!
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" alt="Top languages by repo" />
   <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" alt="Top languages by commit" />
 </div>
+
+<p align="center"><sub>Stats, streak, activity and snake are regenerated daily by a <a href="./.github/workflows/profile-cards.yml">GitHub Action</a>.</sub></p>
 
 ---
 
