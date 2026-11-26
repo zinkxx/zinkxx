@@ -25,15 +25,15 @@
   <text class="m" x="38" y="184" text-anchor="middle">M</text>
 <rect class="rise ac" style="animation-delay:220ms" x="60" y="78.0" width="26" height="90.0" rx="4"/>
   <text class="m" x="73" y="184" text-anchor="middle">T</text>
-<rect class="rise tf" style="animation-delay:290ms" x="95" y="122.0" width="26" height="46.0" rx="4"/>
+<rect class="rise tf" style="animation-delay:290ms" x="95" y="121.9" width="26" height="46.1" rx="4"/>
   <text class="m" x="108" y="184" text-anchor="middle">W</text>
-<rect class="rise tf" style="animation-delay:360ms" x="130" y="108.2" width="26" height="59.8" rx="4"/>
+<rect class="rise tf" style="animation-delay:360ms" x="130" y="108.1" width="26" height="59.9" rx="4"/>
   <text class="m" x="143" y="184" text-anchor="middle">T</text>
 <rect class="rise tf" style="animation-delay:430ms" x="165" y="99.7" width="26" height="68.3" rx="4"/>
   <text class="m" x="178" y="184" text-anchor="middle">F</text>
-<rect class="rise tf" style="animation-delay:500ms" x="200" y="123.5" width="26" height="44.5" rx="4"/>
+<rect class="rise tf" style="animation-delay:500ms" x="200" y="123.4" width="26" height="44.6" rx="4"/>
   <text class="m" x="213" y="184" text-anchor="middle">S</text>
-<rect class="rise tf" style="animation-delay:570ms" x="235" y="101.3" width="26" height="66.7" rx="4"/>
+<rect class="rise tf" style="animation-delay:570ms" x="235" y="101.4" width="26" height="66.6" rx="4"/>
   <text class="m" x="248" y="184" text-anchor="middle">S</text>
 <text class="m" x="25" y="206">Best day: <tspan class="v" style="font-size:11px">343 on Jun 2, 2026</tspan></text>
 </svg>
