@@ -12,13 +12,13 @@
 <rect x="0.5" y="0.5" width="299" height="214" rx="10" fill="#1a1b27" stroke="#2a2e45"/>
 <text class="t" x="25" y="35">Most Used Languages</text>
 <clipPath id="bar"><rect x="0" y="0" width="250" height="8" rx="4"/></clipPath>
-<g clip-path="url(#bar)" transform="translate(25 55)"><rect x="0.00" y="0" width="129.85" height="8" fill="#e34c26"/><rect x="129.85" y="0" width="31.13" height="8" fill="#3178c6"/><rect x="160.98" y="0" width="21.89" height="8" fill="#f1e05a"/><rect x="182.87" y="0" width="20.30" height="8" fill="#4F5D95"/><rect x="203.17" y="0" width="19.69" height="8" fill="#F05138"/><rect x="222.86" y="0" width="10.81" height="8" fill="#41b883"/><rect x="233.67" y="0" width="8.37" height="8" fill="#663399"/><rect x="242.04" y="0" width="7.96" height="8" fill="#3572A5"/></g>
-<g transform="translate(25 80)"><g class="fade" style="animation-delay:200ms" transform="translate(0 0)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text class="s" x="15" y="10">HTML 51.94%</text></g>
-<g class="fade" style="animation-delay:290ms" transform="translate(140 0)"><circle cx="5" cy="6" r="5" fill="#3178c6"/><text class="s" x="15" y="10">TypeScript 12.45%</text></g>
-<g class="fade" style="animation-delay:380ms" transform="translate(0 22)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text class="s" x="15" y="10">JavaScript 8.76%</text></g>
-<g class="fade" style="animation-delay:470ms" transform="translate(140 22)"><circle cx="5" cy="6" r="5" fill="#4F5D95"/><text class="s" x="15" y="10">PHP 8.12%</text></g>
-<g class="fade" style="animation-delay:560ms" transform="translate(0 44)"><circle cx="5" cy="6" r="5" fill="#F05138"/><text class="s" x="15" y="10">Swift 7.88%</text></g>
-<g class="fade" style="animation-delay:650ms" transform="translate(140 44)"><circle cx="5" cy="6" r="5" fill="#41b883"/><text class="s" x="15" y="10">Vue 4.32%</text></g>
-<g class="fade" style="animation-delay:740ms" transform="translate(0 66)"><circle cx="5" cy="6" r="5" fill="#663399"/><text class="s" x="15" y="10">CSS 3.35%</text></g>
+<g clip-path="url(#bar)" transform="translate(25 55)"><rect x="0.00" y="0" width="129.52" height="8" fill="#e34c26"/><rect x="129.52" y="0" width="31.05" height="8" fill="#3178c6"/><rect x="160.57" y="0" width="22.48" height="8" fill="#f1e05a"/><rect x="183.05" y="0" width="20.24" height="8" fill="#4F5D95"/><rect x="203.29" y="0" width="19.64" height="8" fill="#F05138"/><rect x="222.93" y="0" width="10.78" height="8" fill="#41b883"/><rect x="233.71" y="0" width="8.35" height="8" fill="#663399"/><rect x="242.06" y="0" width="7.94" height="8" fill="#3572A5"/></g>
+<g transform="translate(25 80)"><g class="fade" style="animation-delay:200ms" transform="translate(0 0)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text class="s" x="15" y="10">HTML 51.81%</text></g>
+<g class="fade" style="animation-delay:290ms" transform="translate(140 0)"><circle cx="5" cy="6" r="5" fill="#3178c6"/><text class="s" x="15" y="10">TypeScript 12.42%</text></g>
+<g class="fade" style="animation-delay:380ms" transform="translate(0 22)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text class="s" x="15" y="10">JavaScript 8.99%</text></g>
+<g class="fade" style="animation-delay:470ms" transform="translate(140 22)"><circle cx="5" cy="6" r="5" fill="#4F5D95"/><text class="s" x="15" y="10">PHP 8.10%</text></g>
+<g class="fade" style="animation-delay:560ms" transform="translate(0 44)"><circle cx="5" cy="6" r="5" fill="#F05138"/><text class="s" x="15" y="10">Swift 7.86%</text></g>
+<g class="fade" style="animation-delay:650ms" transform="translate(140 44)"><circle cx="5" cy="6" r="5" fill="#41b883"/><text class="s" x="15" y="10">Vue 4.31%</text></g>
+<g class="fade" style="animation-delay:740ms" transform="translate(0 66)"><circle cx="5" cy="6" r="5" fill="#663399"/><text class="s" x="15" y="10">CSS 3.34%</text></g>
 <g class="fade" style="animation-delay:830ms" transform="translate(140 66)"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text class="s" x="15" y="10">Python 3.18%</text></g></g>
 </svg>
