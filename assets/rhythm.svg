@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="225" viewBox="0 0 300 225" role="img" aria-label="Weekly contribution rhythm">
+<title>Weekly contribution rhythm</title>
+<style>
+  svg{--bg:#1a1b27;--bd:#2a2e45;--t:#70a5fd;--l:#38bdae;--v:#c0caf5;--m:#a9b1d6;--ic:#bf91f3;--ac:#f7768e;--tr:#2a2e45}
+  @media (prefers-color-scheme: light){svg{--bg:#ffffff;--bd:#d0d7de;--t:#2f6fde;--l:#1a7f72;--v:#24292f;--m:#57606a;--ic:#8250df;--ac:#cf222e;--tr:#eaeef2}}
+  .bg{fill:var(--bg);stroke:var(--bd)}
+  .t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--v)}
+  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .m{font:400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--m)}
+  .big{font:700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .ic{fill:var(--ic)} .ac{fill:var(--ac)} .tf{fill:var(--t)}
+  .grid{stroke:var(--bd)} .track{fill:var(--tr)} .ring{stroke:var(--t)} .ringac{stroke:var(--ac)} .ringtr{stroke:var(--tr)}
+  .fade{opacity:0;animation:in .6s ease-out forwards}
+  .grow{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s ease-out forwards}
+  .rise{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:rise .8s ease-out forwards}
+  @keyframes in{to{opacity:1}} @keyframes grow{to{transform:scaleX(1)}} @keyframes rise{to{transform:scaleY(1)}}
+  @media (prefers-reduced-motion: reduce){.fade,.grow,.rise{animation:none;opacity:1;transform:none}}
+</style>
+<rect class="bg" x="0.5" y="0.5" width="299" height="224" rx="10"/>
+<text class="t" x="25" y="35">Weekly Rhythm</text>
+<text class="m" x="25" y="56">Busiest: <tspan class="v" style="font-size:11px">Tuesday</tspan> · last 12 months</text>
+<rect class="rise tf" style="animation-delay:150ms" x="25" y="109.4" width="26" height="58.6" rx="4"/>
+  <text class="m" x="38" y="184" text-anchor="middle">M</text>
+<rect class="rise ac" style="animation-delay:220ms" x="60" y="78.0" width="26" height="90.0" rx="4"/>
+  <text class="m" x="73" y="184" text-anchor="middle">T</text>
+<rect class="rise tf" style="animation-delay:290ms" x="95" y="122.0" width="26" height="46.0" rx="4"/>
+  <text class="m" x="108" y="184" text-anchor="middle">W</text>
+<rect class="rise tf" style="animation-delay:360ms" x="130" y="108.2" width="26" height="59.8" rx="4"/>
+  <text class="m" x="143" y="184" text-anchor="middle">T</text>
+<rect class="rise tf" style="animation-delay:430ms" x="165" y="99.7" width="26" height="68.3" rx="4"/>
+  <text class="m" x="178" y="184" text-anchor="middle">F</text>
+<rect class="rise tf" style="animation-delay:500ms" x="200" y="123.5" width="26" height="44.5" rx="4"/>
+  <text class="m" x="213" y="184" text-anchor="middle">S</text>
+<rect class="rise tf" style="animation-delay:570ms" x="235" y="101.3" width="26" height="66.7" rx="4"/>
+  <text class="m" x="248" y="184" text-anchor="middle">S</text>
+<text class="m" x="25" y="206">Best day: <tspan class="v" style="font-size:11px">343 on Jun 2, 2026</tspan></text>
+</svg>

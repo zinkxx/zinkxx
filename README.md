@@ -123,20 +123,17 @@ Contributions and collaboration are always welcome!
 
 <div align="center">
   <br />
-  <img src="https://github-trophies.vercel.app/?username=zinkxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
+  <img height="175" src="./assets/repos.svg" alt="Top repositories" />
+  <img height="175" src="./assets/rhythm.svg" alt="Weekly contribution rhythm" />
 </div>
 
 <div align="center">
   <br />
-  <img height="140" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=zinkxx&theme=tokyonight" alt="Profile details" />
+  <img src="https://github-trophies.vercel.app/?username=zinkxx&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=2&column=6&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="Trophies" />
 </div>
 
-<div align="center">
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=zinkxx&theme=tokyonight" alt="Top languages by repo" />
-  <img height="150" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=zinkxx&theme=tokyonight" alt="Top languages by commit" />
-</div>
 
-<p align="center"><sub>Stats, streak, activity and snake are regenerated daily by a <a href="./.github/workflows/profile-cards.yml">GitHub Action</a>.</sub></p>
+<p align="center"><sub>All cards except the trophies are generated from the GitHub API and refreshed daily by a <a href="./.github/workflows/profile-cards.yml">GitHub Action</a>.</sub></p>
 
 ---
 
