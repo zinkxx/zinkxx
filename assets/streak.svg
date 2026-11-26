@@ -1,31 +1,40 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="495" height="195" viewBox="0 0 495 195" role="img" aria-label="Contribution streak">
 <title>Contribution streak</title>
 <style>
-  .t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}
-  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}
-  .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#a9b1d6}
-  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}
-  .big{font:700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}
+  svg{--bg:#1a1b27;--bd:#2a2e45;--t:#70a5fd;--l:#38bdae;--v:#c0caf5;--m:#a9b1d6;--ic:#bf91f3;--ac:#f7768e;--tr:#2a2e45}
+  @media (prefers-color-scheme: light){svg{--bg:#ffffff;--bd:#d0d7de;--t:#2f6fde;--l:#1a7f72;--v:#24292f;--m:#57606a;--ic:#8250df;--ac:#cf222e;--tr:#eaeef2}}
+  .bg{fill:var(--bg);stroke:var(--bd)}
+  .t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--v)}
+  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .m{font:400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--m)}
+  .big{font:700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .ic{fill:var(--ic)} .ac{fill:var(--ac)} .tf{fill:var(--t)}
+  .grid{stroke:var(--bd)} .track{fill:var(--tr)} .ring{stroke:var(--t)} .ringac{stroke:var(--ac)} .ringtr{stroke:var(--tr)}
   .fade{opacity:0;animation:in .6s ease-out forwards}
-  @keyframes in{to{opacity:1}}
+  .grow{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s ease-out forwards}
+  .rise{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:rise .8s ease-out forwards}
+  @keyframes in{to{opacity:1}} @keyframes grow{to{transform:scaleX(1)}} @keyframes rise{to{transform:scaleY(1)}}
+  @media (prefers-reduced-motion: reduce){.fade,.grow,.rise{animation:none;opacity:1;transform:none}}
 </style>
-<rect x="0.5" y="0.5" width="494" height="194" rx="10" fill="#1a1b27" stroke="#2a2e45"/>
+<rect class="bg" x="0.5" y="0.5" width="494" height="194" rx="10"/>
 
-<line x1="165" y1="30" x2="165" y2="165" stroke="#2a2e45"/><line x1="330" y1="30" x2="330" y2="165" stroke="#2a2e45"/>
+<line class="grid" x1="165" y1="30" x2="165" y2="165"/><line class="grid" x1="330" y1="30" x2="330" y2="165"/>
 <g class="fade" style="animation-delay:100ms" transform="translate(82.5 0)">
-  <text class="big" text-anchor="middle" y="92" style="fill:#70a5fd">9,439</text>
+  <text class="big " text-anchor="middle" y="92">9,439</text>
   <text class="l" text-anchor="middle" y="122" style="font-weight:400">Total Contributions</text>
-  <text class="s" text-anchor="middle" y="145" style="fill:#a9b1d6;font-size:11px">Apr 2, 2023 – Present</text></g>
+  <text class="m" text-anchor="middle" y="145">Apr 2, 2023 – Present</text></g>
 <g transform="translate(247.5 0)">
-  <circle cy="72" r="40" fill="none" stroke="#f7768e" stroke-width="5"/>
-  <path transform="translate(-9 18)" fill="#f7768e" d="M9 0c1 4 7 6 7 12a7 7 0 0 1-14 0c0-3 2-5 3-6 0 2 1 3 2 3 0-4 2-6 2-9Z"/>
+  <circle class="ringac" cy="72" r="40" fill="none" stroke-width="5"/>
+  <path class="ac" transform="translate(-9 18)" d="M9 0c1 4 7 6 7 12a7 7 0 0 1-14 0c0-3 2-5 3-6 0 2 1 3 2 3 0-4 2-6 2-9Z"/>
 </g>
 <g class="fade" style="animation-delay:250ms" transform="translate(247.5 0)">
-  <text class="big" text-anchor="middle" y="82" style="fill:#f7768e">2</text>
+  <text class="big ac" text-anchor="middle" y="82">2</text>
   <text class="l" text-anchor="middle" y="140" style="font-weight:400">Current Streak</text>
-  <text class="s" text-anchor="middle" y="160" style="fill:#a9b1d6;font-size:11px">Nov 25, 2026 – Nov 26, 2026</text></g>
+  <text class="m" text-anchor="middle" y="160">Nov 25, 2026 – Nov 26, 2026</text></g>
 <g class="fade" style="animation-delay:400ms" transform="translate(412.5 0)">
-  <text class="big" text-anchor="middle" y="92" style="fill:#70a5fd">587</text>
+  <text class="big " text-anchor="middle" y="92">587</text>
   <text class="l" text-anchor="middle" y="122" style="font-weight:400">Longest Streak</text>
-  <text class="s" text-anchor="middle" y="145" style="fill:#a9b1d6;font-size:11px">Jun 23, 2024 – Jan 30, 2026</text></g>
+  <text class="m" text-anchor="middle" y="145">Jun 23, 2024 – Jan 30, 2026</text></g>
 </svg>

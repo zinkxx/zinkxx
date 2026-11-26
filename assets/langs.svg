@@ -1,24 +1,63 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="300" height="215" viewBox="0 0 300 215" role="img" aria-label="Most used languages">
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="225" viewBox="0 0 300 225" role="img" aria-label="Most used languages">
 <title>Most used languages</title>
 <style>
-  .t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}
-  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}
-  .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#a9b1d6}
-  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#38bdae}
-  .big{font:700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:#70a5fd}
+  svg{--bg:#1a1b27;--bd:#2a2e45;--t:#70a5fd;--l:#38bdae;--v:#c0caf5;--m:#a9b1d6;--ic:#bf91f3;--ac:#f7768e;--tr:#2a2e45}
+  @media (prefers-color-scheme: light){svg{--bg:#ffffff;--bd:#d0d7de;--t:#2f6fde;--l:#1a7f72;--v:#24292f;--m:#57606a;--ic:#8250df;--ac:#cf222e;--tr:#eaeef2}}
+  .bg{fill:var(--bg);stroke:var(--bd)}
+  .t{font:600 18px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .l{font:600 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .v{font:700 14px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--v)}
+  .s{font:400 12px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--l)}
+  .m{font:400 11px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--m)}
+  .big{font:700 28px 'Segoe UI', Ubuntu, 'Helvetica Neue', Sans-Serif;fill:var(--t)}
+  .ic{fill:var(--ic)} .ac{fill:var(--ac)} .tf{fill:var(--t)}
+  .grid{stroke:var(--bd)} .track{fill:var(--tr)} .ring{stroke:var(--t)} .ringac{stroke:var(--ac)} .ringtr{stroke:var(--tr)}
   .fade{opacity:0;animation:in .6s ease-out forwards}
-  @keyframes in{to{opacity:1}}
+  .grow{transform-box:fill-box;transform-origin:left;transform:scaleX(0);animation:grow .9s ease-out forwards}
+  .rise{transform-box:fill-box;transform-origin:bottom;transform:scaleY(0);animation:rise .8s ease-out forwards}
+  @keyframes in{to{opacity:1}} @keyframes grow{to{transform:scaleX(1)}} @keyframes rise{to{transform:scaleY(1)}}
+  @media (prefers-reduced-motion: reduce){.fade,.grow,.rise{animation:none;opacity:1;transform:none}}
 </style>
-<rect x="0.5" y="0.5" width="299" height="214" rx="10" fill="#1a1b27" stroke="#2a2e45"/>
+<rect class="bg" x="0.5" y="0.5" width="299" height="224" rx="10"/>
 <text class="t" x="25" y="35">Most Used Languages</text>
-<clipPath id="bar"><rect x="0" y="0" width="250" height="8" rx="4"/></clipPath>
-<g clip-path="url(#bar)" transform="translate(25 55)"><rect x="0.00" y="0" width="129.52" height="8" fill="#e34c26"/><rect x="129.52" y="0" width="31.05" height="8" fill="#3178c6"/><rect x="160.57" y="0" width="22.48" height="8" fill="#f1e05a"/><rect x="183.05" y="0" width="20.24" height="8" fill="#4F5D95"/><rect x="203.29" y="0" width="19.64" height="8" fill="#F05138"/><rect x="222.93" y="0" width="10.78" height="8" fill="#41b883"/><rect x="233.71" y="0" width="8.35" height="8" fill="#663399"/><rect x="242.06" y="0" width="7.94" height="8" fill="#3572A5"/></g>
-<g transform="translate(25 80)"><g class="fade" style="animation-delay:200ms" transform="translate(0 0)"><circle cx="5" cy="6" r="5" fill="#e34c26"/><text class="s" x="15" y="10">HTML 51.81%</text></g>
-<g class="fade" style="animation-delay:290ms" transform="translate(140 0)"><circle cx="5" cy="6" r="5" fill="#3178c6"/><text class="s" x="15" y="10">TypeScript 12.42%</text></g>
-<g class="fade" style="animation-delay:380ms" transform="translate(0 22)"><circle cx="5" cy="6" r="5" fill="#f1e05a"/><text class="s" x="15" y="10">JavaScript 8.99%</text></g>
-<g class="fade" style="animation-delay:470ms" transform="translate(140 22)"><circle cx="5" cy="6" r="5" fill="#4F5D95"/><text class="s" x="15" y="10">PHP 8.10%</text></g>
-<g class="fade" style="animation-delay:560ms" transform="translate(0 44)"><circle cx="5" cy="6" r="5" fill="#F05138"/><text class="s" x="15" y="10">Swift 7.86%</text></g>
-<g class="fade" style="animation-delay:650ms" transform="translate(140 44)"><circle cx="5" cy="6" r="5" fill="#41b883"/><text class="s" x="15" y="10">Vue 4.31%</text></g>
-<g class="fade" style="animation-delay:740ms" transform="translate(0 66)"><circle cx="5" cy="6" r="5" fill="#663399"/><text class="s" x="15" y="10">CSS 3.34%</text></g>
-<g class="fade" style="animation-delay:830ms" transform="translate(140 66)"><circle cx="5" cy="6" r="5" fill="#3572A5"/><text class="s" x="15" y="10">Python 3.18%</text></g></g>
+<g class="fade" style="animation-delay:150ms" transform="translate(25 58)">
+  <circle cx="5" cy="-4" r="5" fill="#e34c26"/><text class="s" x="16" y="0">HTML</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:250ms" x="100" y="-8" width="105.0" height="7" rx="3.5" fill="#e34c26"/>
+  <text class="m" x="250" y="0" text-anchor="end">51.8%</text></g>
+<g class="fade" style="animation-delay:230ms" transform="translate(25 78)">
+  <circle cx="5" cy="-4" r="5" fill="#3178c6"/><text class="s" x="16" y="0">TypeScript</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:330ms" x="100" y="-8" width="25.2" height="7" rx="3.5" fill="#3178c6"/>
+  <text class="m" x="250" y="0" text-anchor="end">12.4%</text></g>
+<g class="fade" style="animation-delay:310ms" transform="translate(25 98)">
+  <circle cx="5" cy="-4" r="5" fill="#f1e05a"/><text class="s" x="16" y="0">JavaScript</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:410ms" x="100" y="-8" width="18.2" height="7" rx="3.5" fill="#f1e05a"/>
+  <text class="m" x="250" y="0" text-anchor="end">9.0%</text></g>
+<g class="fade" style="animation-delay:390ms" transform="translate(25 118)">
+  <circle cx="5" cy="-4" r="5" fill="#4F5D95"/><text class="s" x="16" y="0">PHP</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:490ms" x="100" y="-8" width="16.4" height="7" rx="3.5" fill="#4F5D95"/>
+  <text class="m" x="250" y="0" text-anchor="end">8.1%</text></g>
+<g class="fade" style="animation-delay:470ms" transform="translate(25 138)">
+  <circle cx="5" cy="-4" r="5" fill="#F05138"/><text class="s" x="16" y="0">Swift</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:570ms" x="100" y="-8" width="15.9" height="7" rx="3.5" fill="#F05138"/>
+  <text class="m" x="250" y="0" text-anchor="end">7.9%</text></g>
+<g class="fade" style="animation-delay:550ms" transform="translate(25 158)">
+  <circle cx="5" cy="-4" r="5" fill="#41b883"/><text class="s" x="16" y="0">Vue</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:650ms" x="100" y="-8" width="8.7" height="7" rx="3.5" fill="#41b883"/>
+  <text class="m" x="250" y="0" text-anchor="end">4.3%</text></g>
+<g class="fade" style="animation-delay:630ms" transform="translate(25 178)">
+  <circle cx="5" cy="-4" r="5" fill="#663399"/><text class="s" x="16" y="0">CSS</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:730ms" x="100" y="-8" width="6.8" height="7" rx="3.5" fill="#663399"/>
+  <text class="m" x="250" y="0" text-anchor="end">3.3%</text></g>
+<g class="fade" style="animation-delay:710ms" transform="translate(25 198)">
+  <circle cx="5" cy="-4" r="5" fill="#3572A5"/><text class="s" x="16" y="0">Python</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:810ms" x="100" y="-8" width="6.4" height="7" rx="3.5" fill="#3572A5"/>
+  <text class="m" x="250" y="0" text-anchor="end">3.2%</text></g>
 </svg>
