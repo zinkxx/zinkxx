@@ -24,27 +24,27 @@
   <circle cx="5" cy="-4" r="5" fill="#e34c26"/><text class="s" x="16" y="0">HTML</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
   <rect class="grow" style="animation-delay:250ms" x="100" y="-8" width="105.0" height="7" rx="3.5" fill="#e34c26"/>
-  <text class="m" x="250" y="0" text-anchor="end">51.8%</text></g>
+  <text class="m" x="250" y="0" text-anchor="end">51.4%</text></g>
 <g class="fade" style="animation-delay:230ms" transform="translate(25 78)">
   <circle cx="5" cy="-4" r="5" fill="#3178c6"/><text class="s" x="16" y="0">TypeScript</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
   <rect class="grow" style="animation-delay:330ms" x="100" y="-8" width="25.2" height="7" rx="3.5" fill="#3178c6"/>
-  <text class="m" x="250" y="0" text-anchor="end">12.4%</text></g>
+  <text class="m" x="250" y="0" text-anchor="end">12.3%</text></g>
 <g class="fade" style="animation-delay:310ms" transform="translate(25 98)">
   <circle cx="5" cy="-4" r="5" fill="#f1e05a"/><text class="s" x="16" y="0">JavaScript</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
-  <rect class="grow" style="animation-delay:410ms" x="100" y="-8" width="18.2" height="7" rx="3.5" fill="#f1e05a"/>
+  <rect class="grow" style="animation-delay:410ms" x="100" y="-8" width="18.4" height="7" rx="3.5" fill="#f1e05a"/>
   <text class="m" x="250" y="0" text-anchor="end">9.0%</text></g>
 <g class="fade" style="animation-delay:390ms" transform="translate(25 118)">
-  <circle cx="5" cy="-4" r="5" fill="#4F5D95"/><text class="s" x="16" y="0">PHP</text>
-  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
-  <rect class="grow" style="animation-delay:490ms" x="100" y="-8" width="16.4" height="7" rx="3.5" fill="#4F5D95"/>
-  <text class="m" x="250" y="0" text-anchor="end">8.1%</text></g>
-<g class="fade" style="animation-delay:470ms" transform="translate(25 138)">
   <circle cx="5" cy="-4" r="5" fill="#F05138"/><text class="s" x="16" y="0">Swift</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
-  <rect class="grow" style="animation-delay:570ms" x="100" y="-8" width="15.9" height="7" rx="3.5" fill="#F05138"/>
-  <text class="m" x="250" y="0" text-anchor="end">7.9%</text></g>
+  <rect class="grow" style="animation-delay:490ms" x="100" y="-8" width="17.1" height="7" rx="3.5" fill="#F05138"/>
+  <text class="m" x="250" y="0" text-anchor="end">8.4%</text></g>
+<g class="fade" style="animation-delay:470ms" transform="translate(25 138)">
+  <circle cx="5" cy="-4" r="5" fill="#4F5D95"/><text class="s" x="16" y="0">PHP</text>
+  <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
+  <rect class="grow" style="animation-delay:570ms" x="100" y="-8" width="16.4" height="7" rx="3.5" fill="#4F5D95"/>
+  <text class="m" x="250" y="0" text-anchor="end">8.0%</text></g>
 <g class="fade" style="animation-delay:550ms" transform="translate(25 158)">
   <circle cx="5" cy="-4" r="5" fill="#41b883"/><text class="s" x="16" y="0">Vue</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
@@ -58,6 +58,6 @@
 <g class="fade" style="animation-delay:710ms" transform="translate(25 198)">
   <circle cx="5" cy="-4" r="5" fill="#3572A5"/><text class="s" x="16" y="0">Python</text>
   <rect class="track" x="100" y="-8" width="105" height="7" rx="3.5"/>
-  <rect class="grow" style="animation-delay:810ms" x="100" y="-8" width="6.4" height="7" rx="3.5" fill="#3572A5"/>
+  <rect class="grow" style="animation-delay:810ms" x="100" y="-8" width="6.6" height="7" rx="3.5" fill="#3572A5"/>
   <text class="m" x="250" y="0" text-anchor="end">3.2%</text></g>
 </svg>
